@@ -1,7 +1,7 @@
 # Analyst-Portfolio
 Data Analysis and Visualization projects
 
-[New York Yellow Taxi](https://github.com/Tyn04/Data-Science-Projects/blob/main/NYC%20Yellow%20Taxi%20Trip%20Analysis.pdf)([https://github.com/Tyn04/Data-Science-Projects/blob/main/Project_New_York_Yellow_Cab.ipynb)
+[New York Yellow Taxi](https://github.com/Tyn04/Data-Science-Projects/blob/main/NYC%20Yellow%20Taxi%20Trip%20Analysis.pdf)(https://github.com/Tyn04/Data-Science-Projects/blob/main/Project_New_York_Yellow_Cab.ipynb)
 
 [Spocket marketing and strategies](https://github.com/Tyn04/Data-Science-Projects/blob/main/spocket%20marketing%20and%20strategies.pdf)
 
